@@ -1,6 +1,6 @@
 # EDS 220 In-Class Repository
 
-This repository hosts all the work completed in-class by [YOUR NAME HERE] during the EDS 220 - *Working with Environmental Datasets* lectures.4
+This repository hosts all the work completed in-class by Michelle Yiv during the EDS 220 - *Working with Environmental Datasets* lectures.4
 
 ## Course Information
 - **Course Title:** EDS 220 - Working with Environmental Datasets
